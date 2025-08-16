@@ -1,2 +1,2 @@
-# Python-Paket-f-r-Berechnungen
+# Python-Paket mathematische Berechnungen
 Python Paket für mathematische Berechnungen
